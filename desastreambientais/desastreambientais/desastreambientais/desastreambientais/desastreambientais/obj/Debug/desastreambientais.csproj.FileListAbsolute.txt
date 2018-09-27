@@ -1,0 +1,14 @@
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.csprojAssemblyReference.cache
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.Form1.resources
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.Properties.Resources.resources
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.csproj.GenerateResource.cache
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.csproj.CoreCompileInputs.cache
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\bin\Debug\desastreambientais.exe.config
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\bin\Debug\desastreambientais.exe
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\bin\Debug\desastreambientais.pdb
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\bin\Debug\MySql.Data.dll
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\bin\Debug\Google.Protobuf.dll
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\bin\Debug\MySql.Data.xml
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.csproj.CopyComplete
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.exe
+C:\Users\a1704397\Desktop\desastreambientais-master\desastreambientais\obj\Debug\desastreambientais.pdb

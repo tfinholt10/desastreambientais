@@ -43,23 +43,13 @@ namespace desastreambientais
             {
                 //Bloco de comandos sujeitos a erros
                 _conexao = new MySqlConnection(strConexao);
-                if (_conexao.State.Equals(ConnectionState.Closed))
-                {
-                    _conexao.Open();
-                }
+                _conexao.Open();
 
-                _comandoDb = new MySqlCommand();
-                _comandoDb.CommandText = strConexao;
-
-                if(_comandoDb.ExecuteNonQuery() !=1)
-                {
-                    throw new Exception("Falha ao inserir");
-                }
             }
             catch(MySqlException erro)
             {
                 //Captura o erro, caso ocorra
-                throw new Exception("Erro ao inserir" + erro.Message);
+                throw new Exception(erro.Message);
 
             }
             finally

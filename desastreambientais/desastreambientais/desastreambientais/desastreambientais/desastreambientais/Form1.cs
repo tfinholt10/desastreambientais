@@ -33,12 +33,6 @@ namespace desastreambientais
         {
             try
             {
-                string sql = "INSERT INTO funcionario";
-                sql += "(id, nome) VALUES (NULL,";
-                sql += textBox1.Text + ",";
-
-                _banco.Inserir(sql);
-                txtnome.Text = "";
 
 
             }
